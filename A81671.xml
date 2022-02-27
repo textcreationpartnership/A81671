@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the general great days approach. To his excellency Sir Thomas Fairfax general. From the Lady Eleanor Da: &amp; Do</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81671</idno>
+            <idno type="STC">Wing D1999A</idno>
+            <idno type="STC">ESTC R231426</idno>
+            <idno type="EEBO-CITATION">99897298</idno>
+            <idno type="PROQUEST">99897298</idno>
+            <idno type="VID">137027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the general great days approach. To his excellency Sir Thomas Fairfax general. From the Lady Eleanor Da: &amp; Do</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2481 lacks leaf B1.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137027:1" rendition="simple:additions"/>
+            <p>Of the general Great DAYS APPROACH.</p>
+            <p>To His Excellency Sir <hi>Thomas Fairfax</hi> General.</p>
+            <p>FROM The Lady <hi>Eleanor Da:</hi> &amp; <hi>Do.</hi>
+            </p>
+            <q>
+               <bibl>PSAL.</bibl>
+               <p>The Lord reigneth, let the earth re<g ref="char:EOLhyphen"/>joyce; Let the great Iſles be glad thereof.</p>
+            </q>
+            <p>Printed in the Year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137027:2"/>
+            <pb n="3" facs="tcp:137027:2"/>
+            <head>
+               <hi>A.</hi> &amp; <hi>O.</hi>
+            </head>
+            <p>
+               <hi>FRom him which is, and was, and is to come, the alone peace-maker,</hi> his Majeſty expreſly theſe the Re<g ref="char:EOLhyphen"/>velation, by his Handmaid inter<g ref="char:EOLhyphen"/>preted:</p>
+            <p>Shewing, that as the word of the Lord, that <hi>Manna,</hi> came in the wil<g ref="char:EOLhyphen"/>derneſs to him, ſent afore from God, he firſt of his Name, laſt of the old Prophets, and firſt of the new; So to his ſervant <hi>John</hi> again in the Iſle of <hi>Patmos,</hi> ſent unto the Gentiles, to whom by way of Characters and other ſacred Tokens, ſignified the expreſs time of the Lords return,
+<pb n="4" facs="tcp:137027:3"/>the myſtery unfolded: of which as follows;</p>
+            <div type="part">
+               <head>Cap. 1.</head>
+               <p>VVho on this wiſe, with no ſlen<g ref="char:EOLhyphen"/>der charge, <hi>Bleſſed is he that reads, and they that hear the words of this Propheſie, and keep the things writ<g ref="char:EOLhyphen"/>ten therein; for the time is at hand</hi> (Verſe) And with precious time to be ſhort, that returns not, the happy Reader whieh would a taſte of this Angelical food have, mini<g ref="char:EOLhyphen"/>ſtred to <hi>Iohn</hi> by the Angel, whoſe Name ſignifies both the Grace of God, and the Year of Grace, as <hi>Ioann Anno, &amp;c.</hi> by theſe ſhall un<g ref="char:EOLhyphen"/>derſtand, that the Goſpels progreſs or pilgrimage tis to be paced out, by <hi>Noahs</hi> days, or like his few and evil, <hi>Iacobs;</hi> which attained not to thoſe of his predeceſſors: as by this
+<pb n="5" facs="tcp:137027:3"/>account of the <hi>Goſpels</hi> coming ſhort of the former, both before the Law and under, fulfilling ſeventeen Centuries, like his ſeventeen years ſojourning in Egypt, before ended the tedious days of his laborious life, Sevenſcore and ſeven years, his Ladder reaching from Earth to Heaven.</p>
+               <p>And thus with the expedition of Churches captivity in ſpiritual <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> finiſhed; <hi>Iohn,</hi> with theſe joyful Tidings the Time at hand, <hi>ſalutes the ſeven Churches, Grace and Peace unto you, from him which is, and which was, and which is to come; and from the ſeven Spirits before the Throne,</hi> beſides the familiar Voyces of Time alſo, perſonating the Holy Spirits gift; even his watchful ſer<g ref="char:EOLhyphen"/>vants
+<pb n="6" facs="tcp:137027:4"/>day and night, theſe next to eternity, about to take their leave, remember their ſervice to the chur<g ref="char:EOLhyphen"/>ches, eſpecially ſabbath days, where incluſive Times whole family, with the Anniverſary day Eaſter, the Reſurrections feaſt, the year when begins and ends, thoſe ſpiritual, &amp;c. VVho all with one voyce and con<g ref="char:EOLhyphen"/>ſent cry down Times perſon, no more allegiance due, or adored with ſuperſtitious Ceremonies longer:</p>
+               <p>From voyces to good tokens, all to the ſame end and effect, <hi>verſ.</hi> And from Ieſus Chriſt the faithful witneſs, &amp;c. the firſt begotten of the dead: The prince of the Kings of the earth that loved us, and waſhed us from our ſins in his own blood, the Lamb of God, &amp;c. a Bathe
+<pb n="7" facs="tcp:137027:4"/>able to contain certainly the whole world, even from <hi>Iudas Iſcariot</hi> that Traytor in grain, to the Red old Dragon, to preſent them in their primitive eſtate in his appointed time, in whom we live, move, and have our being every one: where points to the cuſtom of former ages of the Church, their adminiſtring about Eaſter, Baptiſm, and the Lords Supper.</p>
+               <p>VVhich ſeven weeks for ſpiritual exerciſe how imployed before the Holy days, too well known: And the Holy Spirit made their open paſtime too, ſuch a gift beſtowed upon them, poſſeſt with <hi>Sodom</hi> blindeneſs reigning ſuch.</p>
+               <p>Nevertheleſs, with the words of this propheſie, This tree of Life
+<pb n="8" facs="tcp:137027:5"/>come to his full ripeneſs; going on ſhewing a greater Potentate then either <hi>Ceſar</hi> ſlain, vvho ſet the year, arriv'd at their ſun-ſetting that Mo<g ref="char:EOLhyphen"/>narchy: or then <hi>C. R.</hi> Defender, &amp;c. with his monthday 27 about <hi>Eaſter,</hi> and prieſts in his preſence, in whom bleeding commiſeration none ſuch, never too ſoon in ſhortening ſuch Reigns hereby as ſhadow'd out.</p>
+               <p>And ſo proceeding with another expreſsion of his much love, ex<g ref="char:EOLhyphen"/>ceeding <hi>Solomons</hi> to the queen of the South, vvhich could but ask and have; <hi>(verſ.)</hi> and hath made us Kings and Prieſts (unto God and his Father) to vvhom be power and dominion to ages of ages, <hi>Amen;</hi> in the Churches old age, as much to ſay, Princes every one &amp; Preachers
+<pb n="3" facs="tcp:137027:5" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:137027:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:137027:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:137027:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:137027:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:137027:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:137027:8" rendition="simple:additions"/>
+                  <hi>God and the Father, &amp;c.</hi>
+               </p>
+               <p>VVhereof <hi>Eden</hi> that parted River that became four Heads a figure, where in thoſe three Gold very good; The <hi>Onyx-ſtone,</hi> and the un<g ref="char:EOLhyphen"/>known <hi>Bdellium,</hi> the <hi>Manna</hi> like<g ref="char:EOLhyphen"/>ned to it, compar'd to a round white ſeed, whence comes doubtleſs our <hi>Orient Pearl,</hi> that queen of <hi>E<g ref="char:EOLhyphen"/>gypts</hi> for one, as well beſtowed up<g ref="char:EOLhyphen"/>on a Swine, the <hi>Gentiles</hi> Emblem; how it fares with them even to this day in holy things.</p>
+               <p>And the whole ſacred current flow<g ref="char:EOLhyphen"/>ing this way of Old and New con<g ref="char:EOLhyphen"/>curring, as the Tabernacle for ex<g ref="char:EOLhyphen"/>ample, ſhews <hi>wrought wiih blue, pur<g ref="char:EOLhyphen"/>ple and crimſon,</hi> in which <hi>the Table, the Shew-bread, and the Candleſticks,</hi> thoſe Memorials alſo the ſignifi<g ref="char:EOLhyphen"/>cant
+<pb n="12" facs="tcp:137027:9" rendition="simple:additions"/>
+                  <hi>Ark four-ſquare,</hi> containing <hi>the Tables of the Law, he pot of Manna, and the budding Rod:</hi> of the four winds, who may doubt too, un<g ref="char:EOLhyphen"/>known whence they are: And the fourth part of the VVorld, becauſe but three formerly, or with doubt<g ref="char:EOLhyphen"/>ing <hi>Thomas,</hi> &amp;c.</p>
+               <p>As witneſs this, <hi>Trinity in <g ref="char:V">Ʋ</g>nity (Exodus the</hi> 3.) ſay, <hi>The Lord God of your Fathers, the God of Abraham, and the God of Iſaac, and the God of Jacob, &amp;c. This is my memorial to all generations;</hi> four ſeveral times repeated, to beware of going leſs, no vain repitition from the Lords own mouth, a Leſſon to his firſt Ambaſſador <hi>Moſes,</hi> bare footed, before the thorny Buſh, the fiery Throne, the fourfold <hi>Aleluiah</hi>
+                  <pb n="13" facs="tcp:137027:9" rendition="simple:additions"/>voyces, ſaying, <hi>Amen, Revel.</hi> with that four-ſquare virgin City, un<g ref="char:EOLhyphen"/>folding as much, ſaid to have <hi>the glory of God;</hi> meaſured (144) her reign.</p>
+               <p>So now to return home to the mat<g ref="char:EOLhyphen"/>ter of his coming in his cloudy cha<g ref="char:EOLhyphen"/>riot, thus advertiſed, <hi>verſe. Behold, he cometh with clouds, &amp;c. Even ſo, Amen:</hi> to the greater ſort, as a thief in the night welcom, or ſome open enemy, even wounded by <hi>Jew</hi> and <hi>Gentile</hi> both.</p>
+               <p>Of his Name, ſacred eve<g ref="char:EOLhyphen"/>ry tittle; thus, <hi>I am A. and O. the beginning and the ending, ſaith the Lord, which is, and which was, and which is to come; the Almighty, where the truth of it: the burthen of the word of the Lord the acceptable year pro<g ref="char:EOLhyphen"/>claims
+<pb n="14" facs="tcp:137027:10" rendition="simple:additions"/>at hand,</hi> witnesd to be with the Scriptures, the Original Languages as pointed unto manifeſts, the old &amp; New, where the firſt begins the laſt ends (as it were) the Suns riſing of the one, the others ſetting, like <hi>An<g ref="char:EOLhyphen"/>tipodes</hi> the <hi>Hebrew</hi> and <hi>Greek;</hi> and ſo of the Old-year end, married to New-years day.</p>
+               <p>And as here by his ovvn Exam<g ref="char:EOLhyphen"/>ple recommended, <hi>Iohn our brother and companion;</hi> what patience re<g ref="char:EOLhyphen"/>quiſite in a Prophet, ſhews he to the Iſle of <hi>Patmos</hi> confined, ſcituated in the <hi>Egean ſea</hi> by that Tyrant, &amp;c.</p>
+               <p>So a Revolution vvithal as the Noon-day viſible, and the Stars in the firmament, directed to this Iſles three, <hi>from him which is, was, and is to come;</hi> the very voyce of the pre<g ref="char:EOLhyphen"/>ſent
+<pb n="15" facs="tcp:137027:10"/>Reign, the firſt of his name, &amp;c. even this kingdom, where began the Reformation, (as it were) by ſeveral languages or ways to them reveal<g ref="char:EOLhyphen"/>ed, his ſecond coming.</p>
+               <p>And theſe the ſum of the bleſſed words of this propheſie, the day of Iudgements ſummons to <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> foreſhewed.</p>
+               <p>Shewing upon the Lords-day how it came to paſs a great voyce of a trumpet behinde him heard, me<g ref="char:EOLhyphen"/>ditating it may be how long to the Reſurrection, or about the meaning of thoſe, <hi>What if I will he tarry till I come?</hi> anſwered by the Reſurections alarm appears, ſaying, <hi>I am Alpha and O mega, the firſt and the laſt; and what thou ſeeſt, write in a book, &amp;c.</hi> at which turned about that dreadful
+<pb n="16" facs="tcp:137027:11" rendition="simple:additions"/>apparition beheld, one in the likenes of the Son of man, a very book at all points, as it were in fine paper gild<g ref="char:EOLhyphen"/>ed, bound and claſps: the flaming Eyes ſome combuſtable ſtuff de<g ref="char:EOLhyphen"/>clares, not onely but the ſharp in<g ref="char:EOLhyphen"/>ſtrument two edged coming out of his mouth, the cutting or opening of the leaves.</p>
+               <p>And ſo for his voyce as the ſound of many waters, even the floods voyce lifted up, as the days of <hi>No<g ref="char:EOLhyphen"/>ah,</hi> the coming of the Son of man, the evening of time come, <hi>the ſeven golden Candleſticks, and the ſeven ſtars in his right hand,</hi> by whoſe influence <hi>Iohn</hi> revived, dead afore, unani<g ref="char:EOLhyphen"/>mouſly the ſame Viſion the Pro<g ref="char:EOLhyphen"/>phet <hi>Daniel</hi> ſaw, ſaying, <hi>a thing wus revealed, but the time was long</hi> (as it
+<pb n="10" facs="tcp:137027:11"/>were) belongs to the time of the end to be underſtood, as referr'd to thoſe one and twenty prophetical days, when withſtood ſo long by the <hi>Per<g ref="char:EOLhyphen"/>ſian</hi> prince, <hi>Dan.</hi> 10. it being therea<g ref="char:EOLhyphen"/>bout ſince <hi>Cyrus,</hi> ſo many hundred years ſince this Secret revealed to him. And thus much for the BOOK and its Contents, with his Commiſsion ſigned and ſealed with thoſe myſtical letters, and ſtars ſeven, to remember the Church to ſtand on their guard and be watch<g ref="char:EOLhyphen"/>ful, thoſe lights almoſt extinct, Bi<g ref="char:EOLhyphen"/>ſhops about 27. in the firſt place.</p>
+               <p>A piece drawn <hi>in the Ancient of days likeneſs; a Robe girt (as it were) ſpurs and ſword, an ireful aſpect, anſwe<g ref="char:EOLhyphen"/>rable to his confuſed voyce, a rod in his right hand, or ſcepter,</hi> indued with
+<pb n="18" facs="tcp:137027:12" rendition="simple:additions"/>ſuch power, with his age, &amp;c. the leaſt touch; his watchword or Mot<g ref="char:EOLhyphen"/>to, verſ. <hi>I am the firſt and the laſt; I am he that was dead, and am alive to ages of ages, and have the keys of He and Death;</hi> conſiſting of variety of expreſsion, ſounding the Reſurre<g ref="char:EOLhyphen"/>ctions Alarm, he ſtanding in the midſt of thoſe Centinels, or walking in that ſolinary place, not the leaſt a<g ref="char:EOLhyphen"/>mong the Iſles; like <hi>his walking in the fiery furnace, beheld by the King of great Babylon,</hi> at whoſe command the ſame <hi>was heated ſeven times more then afore;</hi> a forerunner of his own judgement of ſeven times, &amp;c.</p>
+               <p>And from theſe ſignificant things, and thoſe his laſt words, <hi>Behold, I am with you all days, until the conſum<g ref="char:EOLhyphen"/>mation of the age (Mat.</hi> 28.) as
+<pb n="19" facs="tcp:137027:12" rendition="simple:additions"/>follows, ſhewing the holy Spirit not in power onely viſible to all; but in perſon again ſent before the laſt Day, to ſome one even a Re<g ref="char:EOLhyphen"/>volution or return to be of the for<g ref="char:EOLhyphen"/>mer; Alſo of the very time gives to underſtand from his ſtanding in the midſt of ſo many watch-lights (to wit) about the midſt of ſuch Cen<g ref="char:EOLhyphen"/>tury, to look about us then, with our brother <hi>John,</hi> who turning ſaw and heard theſe, preſaging too ſome ſpecial judgement being foreſhewd then, accompanied for a teſtimony of it, with no inferior perſecution; And the propheſie accompliſhed accordingly, this to be the day of Iudgement Herald, verily to all Nations, &amp;c.</p>
+               <p>Much more to be provided for
+<pb n="20" facs="tcp:137027:13" rendition="simple:additions"/>aforehand then the years of ſcarcity the former when brought forth by handfuls, where <hi>Joſeph</hi> the priſoner ſo advanced, ſurely more to lookt after then <hi>tything of Rue and Roſe<g ref="char:EOLhyphen"/>mary, or great tythes either;</hi> Howſo<g ref="char:EOLhyphen"/>ever by them the Day of Iudgment paſſed over; From moreover, who wrote to a Lady that loving Epi<g ref="char:EOLhyphen"/>ſtle, ſo <hi>He that hath an ear, &amp;c.</hi> (even which accompanies the times gene<g ref="char:EOLhyphen"/>ral Out-cryes, and Nevvs cryed) let him give ear to the truth of his preſence and company vvill enjoy, <hi>who ſtands without and knocks, freely offers to ſup, &amp;c. to ſit in his Throne with him.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
